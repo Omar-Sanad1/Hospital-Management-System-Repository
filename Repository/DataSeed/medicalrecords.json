@@ -1,0 +1,202 @@
+﻿[
+  {
+    "Diagnosis": "Type 2 Diabetes",
+    "Symptoms": "Back Pain",
+    "TreatmentPlan": "Follow-up in 2 weeks",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-12T00:00:00",
+    "FollowUpRecommendations": "Follow up in 1 week",
+    "DoctorID": 14,
+    "PatientID": 12
+  },
+  {
+    "Diagnosis": "Anemia",
+    "Symptoms": "Skin Rash",
+    "TreatmentPlan": "Referred to specialist",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-04T00:00:00",
+    "FollowUpRecommendations": "Follow up in 1 month",
+    "DoctorID": 12,
+    "PatientID": 5
+  },
+  {
+    "Diagnosis": "Hypertension",
+    "Symptoms": "Chest Pain",
+    "TreatmentPlan": "Physical therapy recommended",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-13T00:00:00",
+    "FollowUpRecommendations": "No follow-up needed",
+    "DoctorID": 6,
+    "PatientID": 26
+  },
+  {
+    "Diagnosis": "Gastritis",
+    "Symptoms": "Skin Rash",
+    "TreatmentPlan": "Dietary changes advised",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-13T00:00:00",
+    "FollowUpRecommendations": "Follow up in 1 month",
+    "DoctorID": 8,
+    "PatientID": 6
+  },
+  {
+    "Diagnosis": "Migraine",
+    "Symptoms": "Chest Pain",
+    "TreatmentPlan": "Physical therapy recommended",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-06T00:00:00",
+    "FollowUpRecommendations": "Follow up in 1 month",
+    "DoctorID": 11,
+    "PatientID": 20
+  },
+  {
+    "Diagnosis": "Common Cold",
+    "Symptoms": "Headache",
+    "TreatmentPlan": "Prescribed medication and rest",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-13T00:00:00",
+    "FollowUpRecommendations": "Follow up in 1 month",
+    "DoctorID": 2,
+    "PatientID": 18
+  },
+  {
+    "Diagnosis": "Common Cold",
+    "Symptoms": "Fever",
+    "TreatmentPlan": "Dietary changes advised",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-04T00:00:00",
+    "FollowUpRecommendations": "Follow up in 1 month",
+    "DoctorID": 6,
+    "PatientID": 25
+  },
+  {
+    "Diagnosis": "Sinusitis",
+    "Symptoms": "Chest Pain",
+    "TreatmentPlan": "Dietary changes advised",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-11T00:00:00",
+    "FollowUpRecommendations": "Follow up in 1 week",
+    "DoctorID": 7,
+    "PatientID": 23
+  },
+  {
+    "Diagnosis": "Anemia",
+    "Symptoms": "Headache",
+    "TreatmentPlan": "Referred to specialist",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-15T00:00:00",
+    "FollowUpRecommendations": "Follow up in 1 week",
+    "DoctorID": 3,
+    "PatientID": 14
+  },
+  {
+    "Diagnosis": "Gastritis",
+    "Symptoms": "Chest Pain",
+    "TreatmentPlan": "Prescribed medication and rest",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-18T00:00:00",
+    "FollowUpRecommendations": "No follow-up needed",
+    "DoctorID": 10,
+    "PatientID": 1
+  },
+  {
+    "Diagnosis": "Eczema",
+    "Symptoms": "Chest Pain",
+    "TreatmentPlan": "Referred to specialist",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-01T00:00:00",
+    "FollowUpRecommendations": "Follow up in 1 month",
+    "DoctorID": 2,
+    "PatientID": 21
+  },
+  {
+    "Diagnosis": "Sinusitis",
+    "Symptoms": "Chest Pain",
+    "TreatmentPlan": "Physical therapy recommended",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-01T00:00:00",
+    "FollowUpRecommendations": "No follow-up needed",
+    "DoctorID": 1,
+    "PatientID": 14
+  },
+  {
+    "Diagnosis": "Common Cold",
+    "Symptoms": "Chest Pain",
+    "TreatmentPlan": "Prescribed medication and rest",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-25T00:00:00",
+    "FollowUpRecommendations": "No follow-up needed",
+    "DoctorID": 2,
+    "PatientID": 27
+  },
+  {
+    "Diagnosis": "Lumbar Strain",
+    "Symptoms": "Fever",
+    "TreatmentPlan": "Dietary changes advised",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-23T00:00:00",
+    "FollowUpRecommendations": "Follow up in 1 week",
+    "DoctorID": 2,
+    "PatientID": 1
+  },
+  {
+    "Diagnosis": "Lumbar Strain",
+    "Symptoms": "Fever",
+    "TreatmentPlan": "Prescribed medication and rest",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-11T00:00:00",
+    "FollowUpRecommendations": "Follow up in 1 month",
+    "DoctorID": 11,
+    "PatientID": 8
+  },
+  {
+    "Diagnosis": "Eczema",
+    "Symptoms": "Headache",
+    "TreatmentPlan": "Follow-up in 2 weeks",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-21T00:00:00",
+    "FollowUpRecommendations": "No follow-up needed",
+    "DoctorID": 15,
+    "PatientID": 13
+  },
+  {
+    "Diagnosis": "Bronchitis",
+    "Symptoms": "Headache",
+    "TreatmentPlan": "Physical therapy recommended",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-17T00:00:00",
+    "FollowUpRecommendations": "Follow up in 1 month",
+    "DoctorID": 11,
+    "PatientID": 27
+  },
+  {
+    "Diagnosis": "Bronchitis",
+    "Symptoms": "Headache",
+    "TreatmentPlan": "Physical therapy recommended",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-08T00:00:00",
+    "FollowUpRecommendations": "No follow-up needed",
+    "DoctorID": 2,
+    "PatientID": 15
+  },
+  {
+    "Diagnosis": "Eczema",
+    "Symptoms": "Headache",
+    "TreatmentPlan": "Prescribed medication and rest",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-01T00:00:00",
+    "FollowUpRecommendations": "No follow-up needed",
+    "DoctorID": 8,
+    "PatientID": 11
+  },
+  {
+    "Diagnosis": "Migraine",
+    "Symptoms": "Headache",
+    "TreatmentPlan": "Referred to specialist",
+    "DoctorNotes": "Patient responded well during consultation. No immediate complications observed.",
+    "VisitDate": "2026-07-24T00:00:00",
+    "FollowUpRecommendations": "No follow-up needed",
+    "DoctorID": 4,
+    "PatientID": 5
+  }
+]

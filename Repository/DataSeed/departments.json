@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Name": "Cardiology",
+    "Location": "Building A, Floor 2",
+    "Description": "Specializes in diagnosis and treatment of heart and cardiovascular conditions.",
+    "OperationalStatus": "Active"
+  },
+  {
+    "Name": "Orthopedics",
+    "Location": "Building B, Floor 1",
+    "Description": "Focuses on musculoskeletal system disorders including bones, joints, and ligaments.",
+    "OperationalStatus": "Active"
+  },
+  {
+    "Name": "Pediatrics",
+    "Location": "Building A, Floor 3",
+    "Description": "Provides medical care for infants, children, and adolescents.",
+    "OperationalStatus": "Active"
+  },
+  {
+    "Name": "Neurology",
+    "Location": "Building C, Floor 2",
+    "Description": "Handles disorders of the nervous system including brain and spinal cord.",
+    "OperationalStatus": "Active"
+  },
+  {
+    "Name": "Dermatology",
+    "Location": "Building B, Floor 2",
+    "Description": "Diagnoses and treats conditions related to skin, hair, and nails.",
+    "OperationalStatus": "Active"
+  }
+]

@@ -1,0 +1,202 @@
+﻿[
+  {
+    "PaymentAmount": 75.0,
+    "PaymentDate": "2026-08-06T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Credit Card",
+    "TransactionReferenceNumber": "TXN-2026-1000",
+    "BillID": 1
+  },
+  {
+    "PaymentAmount": 250.0,
+    "PaymentDate": "2026-07-14T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Credit Card",
+    "TransactionReferenceNumber": "TXN-2026-1001",
+    "BillID": 2
+  },
+  {
+    "PaymentAmount": 195.0,
+    "PaymentDate": "2026-07-09T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Cash",
+    "TransactionReferenceNumber": "TXN-2026-1002",
+    "BillID": 3
+  },
+  {
+    "PaymentAmount": 250.0,
+    "PaymentDate": "2026-07-08T00:00:00",
+    "PaymentStatus": "Failed",
+    "PaymentMethod": "Cash",
+    "TransactionReferenceNumber": "TXN-2026-1003",
+    "BillID": 4
+  },
+  {
+    "PaymentAmount": 75.0,
+    "PaymentDate": "2026-07-23T00:00:00",
+    "PaymentStatus": "Pending",
+    "PaymentMethod": "Bank Transfer",
+    "TransactionReferenceNumber": "TXN-2026-1004",
+    "BillID": 5
+  },
+  {
+    "PaymentAmount": 75.0,
+    "PaymentDate": "2026-07-27T00:00:00",
+    "PaymentStatus": "Failed",
+    "PaymentMethod": "Cash",
+    "TransactionReferenceNumber": "TXN-2026-1005",
+    "BillID": 6
+  },
+  {
+    "PaymentAmount": 400,
+    "PaymentDate": "2026-07-07T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Credit Card",
+    "TransactionReferenceNumber": "TXN-2026-1006",
+    "BillID": 7
+  },
+  {
+    "PaymentAmount": 75.0,
+    "PaymentDate": "2026-07-31T00:00:00",
+    "PaymentStatus": "Failed",
+    "PaymentMethod": "Bank Transfer",
+    "TransactionReferenceNumber": "TXN-2026-1007",
+    "BillID": 8
+  },
+  {
+    "PaymentAmount": 200,
+    "PaymentDate": "2026-07-26T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Bank Transfer",
+    "TransactionReferenceNumber": "TXN-2026-1008",
+    "BillID": 9
+  },
+  {
+    "PaymentAmount": 200.0,
+    "PaymentDate": "2026-07-25T00:00:00",
+    "PaymentStatus": "Pending",
+    "PaymentMethod": "Credit Card",
+    "TransactionReferenceNumber": "TXN-2026-1009",
+    "BillID": 10
+  },
+  {
+    "PaymentAmount": 45.0,
+    "PaymentDate": "2026-07-17T00:00:00",
+    "PaymentStatus": "Pending",
+    "PaymentMethod": "Debit Card",
+    "TransactionReferenceNumber": "TXN-2026-1010",
+    "BillID": 11
+  },
+  {
+    "PaymentAmount": 150,
+    "PaymentDate": "2026-07-17T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Cash",
+    "TransactionReferenceNumber": "TXN-2026-1011",
+    "BillID": 12
+  },
+  {
+    "PaymentAmount": 325.0,
+    "PaymentDate": "2026-07-15T00:00:00",
+    "PaymentStatus": "Pending",
+    "PaymentMethod": "Bank Transfer",
+    "TransactionReferenceNumber": "TXN-2026-1012",
+    "BillID": 13
+  },
+  {
+    "PaymentAmount": 60.0,
+    "PaymentDate": "2026-07-04T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Debit Card",
+    "TransactionReferenceNumber": "TXN-2026-1013",
+    "BillID": 14
+  },
+  {
+    "PaymentAmount": 250.0,
+    "PaymentDate": "2026-07-10T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Bank Transfer",
+    "TransactionReferenceNumber": "TXN-2026-1014",
+    "BillID": 15
+  },
+  {
+    "PaymentAmount": 325.0,
+    "PaymentDate": "2026-07-11T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Credit Card",
+    "TransactionReferenceNumber": "TXN-2026-1015",
+    "BillID": 16
+  },
+  {
+    "PaymentAmount": 100.0,
+    "PaymentDate": "2026-07-06T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Bank Transfer",
+    "TransactionReferenceNumber": "TXN-2026-1016",
+    "BillID": 17
+  },
+  {
+    "PaymentAmount": 60.0,
+    "PaymentDate": "2026-07-25T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Bank Transfer",
+    "TransactionReferenceNumber": "TXN-2026-1017",
+    "BillID": 18
+  },
+  {
+    "PaymentAmount": 200.0,
+    "PaymentDate": "2026-07-28T00:00:00",
+    "PaymentStatus": "Failed",
+    "PaymentMethod": "Credit Card",
+    "TransactionReferenceNumber": "TXN-2026-1018",
+    "BillID": 19
+  },
+  {
+    "PaymentAmount": 195.0,
+    "PaymentDate": "2026-07-24T00:00:00",
+    "PaymentStatus": "Failed",
+    "PaymentMethod": "Debit Card",
+    "TransactionReferenceNumber": "TXN-2026-1019",
+    "BillID": 20
+  },
+  {
+    "PaymentAmount": 500.0,
+    "PaymentDate": "2026-07-13T00:00:00",
+    "PaymentStatus": "Pending",
+    "PaymentMethod": "Bank Transfer",
+    "TransactionReferenceNumber": "TXN-2026-1020",
+    "BillID": 21
+  },
+  {
+    "PaymentAmount": 250.0,
+    "PaymentDate": "2026-07-24T00:00:00",
+    "PaymentStatus": "Failed",
+    "PaymentMethod": "Cash",
+    "TransactionReferenceNumber": "TXN-2026-1021",
+    "BillID": 22
+  },
+  {
+    "PaymentAmount": 300,
+    "PaymentDate": "2026-07-17T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Credit Card",
+    "TransactionReferenceNumber": "TXN-2026-1022",
+    "BillID": 23
+  },
+  {
+    "PaymentAmount": 75.0,
+    "PaymentDate": "2026-07-13T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Bank Transfer",
+    "TransactionReferenceNumber": "TXN-2026-1023",
+    "BillID": 24
+  },
+  {
+    "PaymentAmount": 400,
+    "PaymentDate": "2026-07-27T00:00:00",
+    "PaymentStatus": "Completed",
+    "PaymentMethod": "Cash",
+    "TransactionReferenceNumber": "TXN-2026-1024",
+    "BillID": 25
+  }
+]

@@ -1,0 +1,122 @@
+﻿[
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-12T00:00:00",
+    "DoctorID": 14,
+    "PatientID": 12
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-04T00:00:00",
+    "DoctorID": 12,
+    "PatientID": 5
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-13T00:00:00",
+    "DoctorID": 6,
+    "PatientID": 26
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-13T00:00:00",
+    "DoctorID": 8,
+    "PatientID": 6
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-06T00:00:00",
+    "DoctorID": 11,
+    "PatientID": 20
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-13T00:00:00",
+    "DoctorID": 2,
+    "PatientID": 18
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-04T00:00:00",
+    "DoctorID": 6,
+    "PatientID": 25
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-11T00:00:00",
+    "DoctorID": 7,
+    "PatientID": 23
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-15T00:00:00",
+    "DoctorID": 3,
+    "PatientID": 14
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-18T00:00:00",
+    "DoctorID": 10,
+    "PatientID": 1
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-01T00:00:00",
+    "DoctorID": 2,
+    "PatientID": 21
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-01T00:00:00",
+    "DoctorID": 1,
+    "PatientID": 14
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-25T00:00:00",
+    "DoctorID": 2,
+    "PatientID": 27
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-23T00:00:00",
+    "DoctorID": 2,
+    "PatientID": 1
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-11T00:00:00",
+    "DoctorID": 11,
+    "PatientID": 8
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-21T00:00:00",
+    "DoctorID": 15,
+    "PatientID": 13
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-17T00:00:00",
+    "DoctorID": 11,
+    "PatientID": 27
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-08T00:00:00",
+    "DoctorID": 2,
+    "PatientID": 15
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-01T00:00:00",
+    "DoctorID": 8,
+    "PatientID": 11
+  },
+  {
+    "Notes": "Take medication after meals. Avoid alcohol.",
+    "PrescriptionDate": "2026-07-24T00:00:00",
+    "DoctorID": 4,
+    "PatientID": 5
+  }
+]

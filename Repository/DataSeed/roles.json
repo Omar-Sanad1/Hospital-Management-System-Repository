@@ -1,0 +1,17 @@
+﻿[
+  {
+    "RoleName": "Administrator"
+  },
+  {
+    "RoleName": "Doctor"
+  },
+  {
+    "RoleName": "Receptionist"
+  },
+  {
+    "RoleName": "LaboratoryTechnician"
+  },
+  {
+    "RoleName": "Patient"
+  }
+]

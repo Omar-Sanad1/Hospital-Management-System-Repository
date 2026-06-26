@@ -1,0 +1,177 @@
+﻿[
+  {
+    "BillDate": "2026-07-28T00:00:00",
+    "TotalAmount": 150,
+    "DueDate": "2026-08-11T00:00:00",
+    "PaymentStatus": "Partially Paid",
+    "PatientID": 18
+  },
+  {
+    "BillDate": "2026-07-04T00:00:00",
+    "TotalAmount": 500,
+    "DueDate": "2026-07-18T00:00:00",
+    "PaymentStatus": "Partially Paid",
+    "PatientID": 24
+  },
+  {
+    "BillDate": "2026-07-09T00:00:00",
+    "TotalAmount": 650,
+    "DueDate": "2026-07-23T00:00:00",
+    "PaymentStatus": "Partially Paid",
+    "PatientID": 25
+  },
+  {
+    "BillDate": "2026-07-04T00:00:00",
+    "TotalAmount": 250,
+    "DueDate": "2026-07-18T00:00:00",
+    "PaymentStatus": "Unpaid",
+    "PatientID": 11
+  },
+  {
+    "BillDate": "2026-07-15T00:00:00",
+    "TotalAmount": 150,
+    "DueDate": "2026-07-29T00:00:00",
+    "PaymentStatus": "Partially Paid",
+    "PatientID": 6
+  },
+  {
+    "BillDate": "2026-07-24T00:00:00",
+    "TotalAmount": 250,
+    "DueDate": "2026-08-07T00:00:00",
+    "PaymentStatus": "Partially Paid",
+    "PatientID": 29
+  },
+  {
+    "BillDate": "2026-07-06T00:00:00",
+    "TotalAmount": 400,
+    "DueDate": "2026-07-20T00:00:00",
+    "PaymentStatus": "Paid",
+    "PatientID": 25
+  },
+  {
+    "BillDate": "2026-07-21T00:00:00",
+    "TotalAmount": 250,
+    "DueDate": "2026-08-04T00:00:00",
+    "PaymentStatus": "Partially Paid",
+    "PatientID": 28
+  },
+  {
+    "BillDate": "2026-07-20T00:00:00",
+    "TotalAmount": 200,
+    "DueDate": "2026-08-03T00:00:00",
+    "PaymentStatus": "Paid",
+    "PatientID": 17
+  },
+  {
+    "BillDate": "2026-07-25T00:00:00",
+    "TotalAmount": 200,
+    "DueDate": "2026-08-08T00:00:00",
+    "PaymentStatus": "Partially Paid",
+    "PatientID": 12
+  },
+  {
+    "BillDate": "2026-07-17T00:00:00",
+    "TotalAmount": 150,
+    "DueDate": "2026-07-31T00:00:00",
+    "PaymentStatus": "Partially Paid",
+    "PatientID": 25
+  },
+  {
+    "BillDate": "2026-07-16T00:00:00",
+    "TotalAmount": 150,
+    "DueDate": "2026-07-30T00:00:00",
+    "PaymentStatus": "Paid",
+    "PatientID": 11
+  },
+  {
+    "BillDate": "2026-07-12T00:00:00",
+    "TotalAmount": 650,
+    "DueDate": "2026-07-26T00:00:00",
+    "PaymentStatus": "Unpaid",
+    "PatientID": 30
+  },
+  {
+    "BillDate": "2026-07-02T00:00:00",
+    "TotalAmount": 200,
+    "DueDate": "2026-07-16T00:00:00",
+    "PaymentStatus": "Partially Paid",
+    "PatientID": 8
+  },
+  {
+    "BillDate": "2026-07-03T00:00:00",
+    "TotalAmount": 500,
+    "DueDate": "2026-07-17T00:00:00",
+    "PaymentStatus": "Unpaid",
+    "PatientID": 3
+  },
+  {
+    "BillDate": "2026-07-03T00:00:00",
+    "TotalAmount": 650,
+    "DueDate": "2026-07-17T00:00:00",
+    "PaymentStatus": "Partially Paid",
+    "PatientID": 27
+  },
+  {
+    "BillDate": "2026-07-05T00:00:00",
+    "TotalAmount": 200,
+    "DueDate": "2026-07-19T00:00:00",
+    "PaymentStatus": "Partially Paid",
+    "PatientID": 25
+  },
+  {
+    "BillDate": "2026-07-18T00:00:00",
+    "TotalAmount": 200,
+    "DueDate": "2026-08-01T00:00:00",
+    "PaymentStatus": "Unpaid",
+    "PatientID": 16
+  },
+  {
+    "BillDate": "2026-07-28T00:00:00",
+    "TotalAmount": 400,
+    "DueDate": "2026-08-11T00:00:00",
+    "PaymentStatus": "Unpaid",
+    "PatientID": 17
+  },
+  {
+    "BillDate": "2026-07-18T00:00:00",
+    "TotalAmount": 650,
+    "DueDate": "2026-08-01T00:00:00",
+    "PaymentStatus": "Partially Paid",
+    "PatientID": 7
+  },
+  {
+    "BillDate": "2026-07-07T00:00:00",
+    "TotalAmount": 500,
+    "DueDate": "2026-07-21T00:00:00",
+    "PaymentStatus": "Unpaid",
+    "PatientID": 23
+  },
+  {
+    "BillDate": "2026-07-22T00:00:00",
+    "TotalAmount": 500,
+    "DueDate": "2026-08-05T00:00:00",
+    "PaymentStatus": "Unpaid",
+    "PatientID": 13
+  },
+  {
+    "BillDate": "2026-07-17T00:00:00",
+    "TotalAmount": 300,
+    "DueDate": "2026-07-31T00:00:00",
+    "PaymentStatus": "Paid",
+    "PatientID": 15
+  },
+  {
+    "BillDate": "2026-07-08T00:00:00",
+    "TotalAmount": 150,
+    "DueDate": "2026-07-22T00:00:00",
+    "PaymentStatus": "Unpaid",
+    "PatientID": 8
+  },
+  {
+    "BillDate": "2026-07-19T00:00:00",
+    "TotalAmount": 400,
+    "DueDate": "2026-08-02T00:00:00",
+    "PaymentStatus": "Paid",
+    "PatientID": 1
+  }
+]

@@ -1,0 +1,426 @@
+﻿[
+  {
+    "UserName": "ahmed.admin",
+    "EmailAddress": "ahmed.admin@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-01-10T09:00:00",
+    "isActive": true,
+    "RoleID": 1
+  },
+  {
+    "UserName": "salma.admin",
+    "EmailAddress": "salma.admin@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-01-10T09:00:00",
+    "isActive": true,
+    "RoleID": 1
+  },
+  {
+    "UserName": "mohamed.hassan",
+    "EmailAddress": "mohamed.hassan@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "laila.fahmy",
+    "EmailAddress": "laila.fahmy@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "omar.tarek",
+    "EmailAddress": "omar.tarek@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "nour.sami",
+    "EmailAddress": "nour.sami@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "khaled.adel",
+    "EmailAddress": "khaled.adel@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "mariam.ibrahim",
+    "EmailAddress": "mariam.ibrahim@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "youssef.kamal",
+    "EmailAddress": "youssef.kamal@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "dina.mostafa",
+    "EmailAddress": "dina.mostafa@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "tarek.elsayed",
+    "EmailAddress": "tarek.elsayed@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "rana.gaber",
+    "EmailAddress": "rana.gaber@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "amr.shawky",
+    "EmailAddress": "amr.shawky@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "heba.nabil",
+    "EmailAddress": "heba.nabil@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "karim.fouad",
+    "EmailAddress": "karim.fouad@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "salma.ezzat",
+    "EmailAddress": "salma.ezzat@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "hassan.aziz",
+    "EmailAddress": "hassan.aziz@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-01T09:00:00",
+    "isActive": true,
+    "RoleID": 2
+  },
+  {
+    "UserName": "aya.reception",
+    "EmailAddress": "aya.reception@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-15T09:00:00",
+    "isActive": true,
+    "RoleID": 3
+  },
+  {
+    "UserName": "mona.reception",
+    "EmailAddress": "mona.reception@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-15T09:00:00",
+    "isActive": true,
+    "RoleID": 3
+  },
+  {
+    "UserName": "sara.reception",
+    "EmailAddress": "sara.reception@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-15T09:00:00",
+    "isActive": true,
+    "RoleID": 3
+  },
+  {
+    "UserName": "hany.lab",
+    "EmailAddress": "hany.lab@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-15T09:00:00",
+    "isActive": true,
+    "RoleID": 4
+  },
+  {
+    "UserName": "noha.lab",
+    "EmailAddress": "noha.lab@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-15T09:00:00",
+    "isActive": true,
+    "RoleID": 4
+  },
+  {
+    "UserName": "fady.lab",
+    "EmailAddress": "fady.lab@hospital.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-02-15T09:00:00",
+    "isActive": true,
+    "RoleID": 4
+  },
+  {
+    "UserName": "ali.patient1",
+    "EmailAddress": "ali.patient1@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-03-01T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "mona.patient2",
+    "EmailAddress": "mona.patient2@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-03-04T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "hassan.patient3",
+    "EmailAddress": "hassan.patient3@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-03-07T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "yara.patient4",
+    "EmailAddress": "yara.patient4@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-03-10T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "karim.patient5",
+    "EmailAddress": "karim.patient5@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-03-13T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "salma.patient6",
+    "EmailAddress": "salma.patient6@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-03-16T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "adel.patient7",
+    "EmailAddress": "adel.patient7@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-03-19T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "reem.patient8",
+    "EmailAddress": "reem.patient8@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-03-22T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "wael.patient9",
+    "EmailAddress": "wael.patient9@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-03-25T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "dalia.patient10",
+    "EmailAddress": "dalia.patient10@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-03-28T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "sherif.patient11",
+    "EmailAddress": "sherif.patient11@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-03-31T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "aisha.patient12",
+    "EmailAddress": "aisha.patient12@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-04-03T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "tamer.patient13",
+    "EmailAddress": "tamer.patient13@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-04-06T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "layla.patient14",
+    "EmailAddress": "layla.patient14@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-04-09T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "bassem.patient15",
+    "EmailAddress": "bassem.patient15@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-04-12T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "farida.patient16",
+    "EmailAddress": "farida.patient16@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-04-15T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "hossam.patient17",
+    "EmailAddress": "hossam.patient17@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-04-18T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "nada.patient18",
+    "EmailAddress": "nada.patient18@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-04-21T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "ziad.patient19",
+    "EmailAddress": "ziad.patient19@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-04-24T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "hala.patient20",
+    "EmailAddress": "hala.patient20@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-04-27T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "mahmoud.patient21",
+    "EmailAddress": "mahmoud.patient21@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-04-30T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "rania.patient22",
+    "EmailAddress": "rania.patient22@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-05-03T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "ayman.patient23",
+    "EmailAddress": "ayman.patient23@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-05-06T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "ghada.patient24",
+    "EmailAddress": "ghada.patient24@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-05-09T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "sameh.patient25",
+    "EmailAddress": "sameh.patient25@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-05-12T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "iman.patient26",
+    "EmailAddress": "iman.patient26@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-05-15T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "wessam.patient27",
+    "EmailAddress": "wessam.patient27@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-05-18T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "maha.patient28",
+    "EmailAddress": "maha.patient28@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-05-21T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "fawzy.patient29",
+    "EmailAddress": "fawzy.patient29@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-05-24T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  },
+  {
+    "UserName": "eman.patient30",
+    "EmailAddress": "eman.patient30@gmail.com",
+    "PasswordHash": "AQAAAAEAACcQAAAAEJx9$placeholder_hash_value==",
+    "CreatedAt": "2025-05-27T00:00:00",
+    "isActive": true,
+    "RoleID": 5
+  }
+]
