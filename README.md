@@ -15,7 +15,7 @@ Hospital Management System API built with ASP.NET Core, Entity Framework Core, S
 - BCrypt For Password Hashing
 - Pagination & Sorting & Filterig
 
-## Featurs
+## Features
 - JWT Authentication
 - Role-Based Authorization
 - Entity Framework Core
